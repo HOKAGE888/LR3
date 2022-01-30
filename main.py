@@ -1,4 +1,7 @@
 
+def x2(x):
+    return x/2
+
 def f1():
     while True:
         try:
