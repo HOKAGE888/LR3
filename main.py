@@ -23,3 +23,4 @@ def collatz(x):
             x=x3_1(x)
     result.append(x)
     return result
+print(collatz(f1()))
